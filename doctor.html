@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Doctor Dashboard</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h2>Welcome Doctor</h2>
+
+    <div class="token-form">
+      <input type="number" id="tokenSearch" placeholder="Enter Token" />
+      <button onclick="loadPatient()">Load</button>
+    </div>
+
+    <div id="patientDetails"></div>
+
+    <form id="prescriptionForm">
+      <textarea id="prescription" placeholder="Enter Prescription"></textarea>
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+
+  <script type="module" src="src/doctor.js"></script>
+</body>
+
+
+  
+</html>
