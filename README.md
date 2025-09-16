@@ -38,25 +38,7 @@ clinic-management/
 
 ---
 
-## 📸 Screenshots
 
-### 🔐 Login Page
-
-![Clinic Login](https://raw.githubusercontent.com/Lokesh-ui3/clinic-management-system/main/login.png)
-
----
-
-### 👨‍⚕️ Doctor Dashboard
-
-![Doctor Dashboard](https://raw.githubusercontent.com/Lokesh-ui3/clinic-management-system/main/doctor.png)
-
----
-
-### 💁‍♀️ Receptionist Dashboard
-
-![Receptionist Dashboard](https://raw.githubusercontent.com/Lokesh-ui3/clinic-management-system/main/receptionist.png)
-
----
 
 ## 🚀 Getting Started
 
